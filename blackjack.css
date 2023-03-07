@@ -1,0 +1,51 @@
+#h1{
+  display: inline;
+  font-size: xx-large;
+  font-weight: bolder;
+  border-bottom: 4px solid goldenrod;
+  border-top: 4px solid goldenrod;
+
+ 
+}
+
+body{
+   text-align: center;
+   background-color: darkgreen;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: goldenrod;
+   margin-top: 100px;
+   background-size: cover;
+}
+
+button{
+    display: block;
+    margin-left:  auto;
+    margin-right: auto;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 200px;
+    color: darkgreen;
+    background-color: goldenrod;
+    font-size: larger;
+    font-weight: bolder;
+    border: none;
+    border-radius: 2px;
+    margin-top: 70px;
+}
+button:hover{
+  width: 195px;
+  font-size: large;
+}
+#new_card{
+    margin-top: 4px;
+}
+p{
+  font-weight: bolder;
+ margin-top: 50px;
+}
+#playerdet{
+  font-size: larger;
+  font-weight: bolder;
+}
+ 
+
